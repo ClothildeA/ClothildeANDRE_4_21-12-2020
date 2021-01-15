@@ -2288,6 +2288,22 @@ pre code {
     margin-left: 0
 }
 
+.img-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.img-text--content {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+.img-text--content-end {
+    font-size: 1.4rem;
+    font-weight: 100;
+}
+
 @media (min-width:768px) {
     .col-sm-1,
     .col-sm-10,

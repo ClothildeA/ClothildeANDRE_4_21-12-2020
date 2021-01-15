@@ -362,21 +362,6 @@ a:hover {
     z-index: 2;
 }
 
-.img-text {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
-.img-text--content {
-    font-size: 2.5rem;
-    color: #575757;
-}
-.img-text--content-end {
-    font-size: 1.4rem;
-    font-weight: 100;
-}
-
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
